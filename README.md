@@ -1,5 +1,4 @@
-# Hi, I am Thurein
-
+# Hello, welcome from my profile
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=BlackBunnyDevs.visitor-badge)
 <br/>
 
