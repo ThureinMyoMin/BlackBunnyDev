@@ -1,6 +1,4 @@
-# 嗨, 我是黑兔子!
-
-我键入的每个键都有影响 💻
+# Hi, I am Thomas
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=BlackBunnyDevs.visitor-badge)
 <br/>
