@@ -1,4 +1,4 @@
-# Hi, I am Thomas
+# Hi, I am Thurein
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=BlackBunnyDevs.visitor-badge)
 <br/>
